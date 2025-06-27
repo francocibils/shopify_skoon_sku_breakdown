@@ -5,7 +5,7 @@ from io import BytesIO
 from xlsxwriter import Workbook
 from helper_functions import *
 
-st.title('Shopify - Skoon')
+st.title('Shopify - Skoon SKU breakdown')
 st.header('File upload')
 st.markdown('Upload file to obtain gifts, free-reships and coupons.')
 
